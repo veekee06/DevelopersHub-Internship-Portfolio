@@ -57,7 +57,7 @@ Task 4: Insurance Claim Amount Prediction
 
 Created a regression model to predict medical insurance charges using demographic and health-related variables. Evaluated model performance using MAE and RMSE.
 
-Task 5: Bank Marketing Campaign Prediction
+Task 5: Personal Loan Acceptance Prediction
 
 Developed a predictive model to identify customers likely to accept a bank marketing offer. Conducted customer segmentation and response analysis across demographic groups.
 
