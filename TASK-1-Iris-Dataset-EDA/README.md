@@ -1,11 +1,9 @@
-Iris Dataset Exploration and Visualization
+# Iris Dataset Exploration and Visualization
 
-Project Overview
-
+# Project Overview
 This project focuses on exploring and visualizing the Iris dataset, one of the most widely used datasets in machine learning and statistics. The goal was to understand the structure of the dataset, analyze feature distributions, identify patterns among flower species, and create meaningful visualizations.
 
-Objectives
-
+# Objectives
 * Load and inspect the Iris dataset
 
 * Generate descriptive statistics
@@ -16,7 +14,7 @@ Objectives
 
 * Explore relationships between variables using scatter plots
 
-Tools Used
+# Tools Used
 
 * Python
 
@@ -26,7 +24,7 @@ Tools Used
 
 * Seaborn
 
-Key Findings
+# Key Findings
 
 * Petal measurements are highly effective in distinguishing Iris species.
 
@@ -36,7 +34,7 @@ Key Findings
 
 * Scatter plots reveal strong relationships between petal features.
 
-Skills Demonstrated
+# Skills Demonstrated
 
 * Data Loading and Inspection
 
