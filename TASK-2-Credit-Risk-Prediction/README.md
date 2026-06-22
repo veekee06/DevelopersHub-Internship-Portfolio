@@ -1,18 +1,15 @@
-Credit Risk Prediction
+# Credit Risk Prediction
 
-Project Overview
-
+# Project Overview
 This project aims to predict whether a loan applicant is likely to receive loan approval based on demographic and financial information. The analysis combines exploratory data analysis with machine learning classification techniques to support lending decisions.
 
-Objectives
-
+# Objectives
 * Clean and prepare loan application data
 * Analyze key features such as income, education, and loan amount
 * Train a classification model
 * Evaluate performance using accuracy and confusion matrices
 
-Tools Used 
-
+# Tools Used 
 * Python
 * Pandas
 * Seaborn
@@ -20,15 +17,13 @@ Tools Used
 * Machine Learning Model
 * Logistic Regression
 
-Key Findings 
-
+# Key Findings 
 * Applicant income and education level influence loan approval outcomes.
 * Loan amounts vary significantly across applicants.
 * The model achieved reliable classification performance for approval prediction.
 * Exploratory analysis provided insights into applicant financial behavior.
 
-Skills Demonstrated
-
+# Skills Demonstrated
 * Data Cleaning
 * Feature Engineering
 * Classification Modeling
